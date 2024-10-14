@@ -1,7 +1,7 @@
-# smallwat3r's keymap for 30 keys keebs
+# smallwat3r's keymap for 28 or 30 keys keebs
 
-Colemak DH with some slight mod in order to accommodate 30 keys. 
+Colemak DH with some slight mod in order to accommodate 28 or 30 keys.
 
-Highly relying on combos on the main layer.
+Highly relying on combos from the main layer.
 
 ![keymap](./images/keymap.svg)
