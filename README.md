@@ -4,4 +4,4 @@ Colemak DH with some slight mod in order to accommodate 26 or 30 keys.
 
 Highly relying on combos from the main layer.
 
-![keymap](./images/keymap.svg)
+![keymap](./images/keymap.png)
