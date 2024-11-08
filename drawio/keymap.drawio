@@ -835,7 +835,7 @@
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-58" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=30;direction=north;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-67" vertex="1">
           <mxGeometry x="144" y="130" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ht8cUeteIGSEXaey3JQ4-59" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-30;direction=north;strokeWidth=2;perimeterSpacing=2;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-67" vertex="1">
+        <mxCell id="Ht8cUeteIGSEXaey3JQ4-59" value="Bksp" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-30;direction=north;strokeWidth=2;perimeterSpacing=2;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-67" vertex="1">
           <mxGeometry x="192" y="130" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-60" value="Del" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-15;direction=west;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-67" vertex="1">
