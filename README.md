@@ -2,6 +2,6 @@
 
 Colemak DH with some slight mod in order to accommodate 26 keys.
 
-Highly relying on combos from the main layer. I'm currently using very light switches (Kailh Nocturnal Ambient, 20g), which makes using combos very smooth.
+Highly relying on combos from the main layer. I'm currently using very light switches (Ambients Nocturnal from Kailh, 20g), which makes using combos very smooth.
 
 ![keymap](./images/keymap.png)
