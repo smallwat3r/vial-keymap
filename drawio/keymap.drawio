@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="VxbZsfQ6vlXJQv2ikdC8">
-    <mxGraphModel dx="985" dy="311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1269" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="110.75" y="154" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-36" value="" style="group;verticalAlign=middle;fillColor=#009900;opacity=10;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="391" y="110" width="370" height="170" as="geometry" />
+          <mxGeometry x="386" y="110" width="370" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-34" value="&lt;font color=&quot;#009900&quot;&gt;nav&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=EB Garamond;fontSize=15;labelBorderColor=none;strokeWidth=2;glass=0;shadow=1;strokeColor=#009900;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="_eD-Y539RmsAj1h9kYog-36" vertex="1">
           <mxGeometry width="370" height="170" as="geometry" />
@@ -128,88 +128,88 @@
           <mxGeometry x="290.75" y="64" width="35" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-58" value="" style="group;fillColor=#9933FF;opacity=10;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="197" y="458" width="370" height="170" as="geometry" />
+          <mxGeometry x="5" y="458" width="376" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-56" value="&lt;font color=&quot;#9933ff&quot; style=&quot;font-size: 15px;&quot;&gt;french&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#9933FF;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry width="370" height="170" as="geometry" />
+          <mxGeometry width="376" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-2" value="ç" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;fontSize=12;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="10.5" y="63" width="30" height="30" as="geometry" />
+          <mxGeometry x="10.67027027027027" y="63" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-3" value="ù" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="40.5" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="41.15675675675676" y="50" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-4" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="40.5" y="80" width="30" height="30" as="geometry" />
+          <mxGeometry x="41.15675675675676" y="80" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-5" value="û" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="70.5" y="40" width="30" height="30" as="geometry" />
+          <mxGeometry x="71.64324324324325" y="40" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-6" value="è" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;fontSize=12;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fillColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="100.5" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="102.12972972972973" y="50" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-7" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="70.5" y="70" width="30" height="30" as="geometry" />
+          <mxGeometry x="71.64324324324325" y="70" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-8" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="100.5" y="80" width="30" height="30" as="geometry" />
+          <mxGeometry x="102.12972972972973" y="80" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-9" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fillColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="40.5" y="20" width="30" height="30" as="geometry" />
+          <mxGeometry x="41.15675675675676" y="20" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-10" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;fontSize=12;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fillColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="70.5" y="10" width="30" height="30" as="geometry" />
+          <mxGeometry x="71.64324324324325" y="10" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-11" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fillColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="100.5" y="20" width="30" height="30" as="geometry" />
+          <mxGeometry x="102.12972972972973" y="20" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-12" value="ê" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="130.5" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="132.6162162162162" y="50" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-13" value="&#xa;" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="209.5" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="212.89729729729729" y="50" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-14" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fillColor=#9933FF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="239.5" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="243.3837837837838" y="50" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-15" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="239.5" y="80" width="30" height="30" as="geometry" />
+          <mxGeometry x="243.3837837837838" y="80" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-16" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;fontSize=12;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fillColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="239.5" y="20" width="30" height="30" as="geometry" />
+          <mxGeometry x="243.3837837837838" y="20" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-17" value="é" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="269.5" y="40" width="30" height="30" as="geometry" />
+          <mxGeometry x="273.8702702702702" y="40" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-18" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="269.5" y="70" width="30" height="30" as="geometry" />
+          <mxGeometry x="273.8702702702702" y="70" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-19" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fillColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="269.5" y="10" width="30" height="30" as="geometry" />
+          <mxGeometry x="273.8702702702702" y="10" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-20" value="à" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="299.5" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="304.3567567567568" y="50" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-21" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="299.5" y="80" width="30" height="30" as="geometry" />
+          <mxGeometry x="304.3567567567568" y="80" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-22" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fillColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="299.5" y="20" width="30" height="30" as="geometry" />
+          <mxGeometry x="304.3567567567568" y="20" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-23" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=12;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="329.5" y="63" width="30" height="30" as="geometry" />
+          <mxGeometry x="334.84324324324325" y="63" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-24" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=15;direction=west;labelBackgroundColor=none;fillColor=#FFFFFF;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="113.5" y="118" width="30" height="30" as="geometry" />
+          <mxGeometry x="115.34054054054054" y="118" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-25" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=30;direction=north;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fillColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="144.5" y="130" width="30" height="30" as="geometry" />
+          <mxGeometry x="146.84324324324325" y="130" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-26" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-30;direction=north;strokeWidth=2;perimeterSpacing=2;fontFamily=EB Garamond;fontStyle=0;fillColor=#FFFFFF;fontSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="192.5" y="130" width="30" height="30" as="geometry" />
+          <mxGeometry x="195.6216216216216" y="130" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-27" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-15;direction=west;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fillColor=#FFFFFF;fontSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-58" vertex="1">
-          <mxGeometry x="223.5" y="118" width="30" height="30" as="geometry" />
+          <mxGeometry x="227.1243243243243" y="118" width="30.486486486486488" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-43" value="" style="group;fillColor=#FF0000;opacity=10;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-367" y="100" width="370" height="180" as="geometry" />
@@ -299,7 +299,7 @@
           <mxGeometry x="262" y="86" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-57" value="" style="group;fillColor=#FF8000;opacity=10;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-177" y="458" width="370" height="170" as="geometry" />
+          <mxGeometry x="-370" y="458" width="370" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-55" value="&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 15px;&quot;&gt;fun&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#FF8000;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="_eD-Y539RmsAj1h9kYog-57" vertex="1">
           <mxGeometry width="370" height="170" as="geometry" />
@@ -392,7 +392,7 @@
           <mxGeometry x="199.25" y="9" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-66" value="" style="group;fillColor=#FF33FF;opacity=10;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="389" y="285" width="370" height="170" as="geometry" />
+          <mxGeometry x="386" y="285" width="370" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-47" value="&lt;font color=&quot;#ff33ff&quot; style=&quot;font-size: 15px;&quot;&gt;sym&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;shadow=1;strokeColor=#FF33FF;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="_eD-Y539RmsAj1h9kYog-66" vertex="1">
           <mxGeometry x="1" y="-1" width="370" height="170" as="geometry" />
@@ -578,100 +578,100 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-68" value="" style="group;fillColor=#00CCCC;opacity=10;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="4" y="284" width="381.5" height="170" as="geometry" />
+          <mxGeometry x="5" y="284" width="376" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-62" value="&lt;font color=&quot;#00cccc&quot; style=&quot;font-size: 15px;&quot;&gt;sys&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;shadow=1;strokeColor=#00CCCC;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="_eD-Y539RmsAj1h9kYog-68" vertex="1">
-          <mxGeometry width="381.5" height="170" as="geometry" />
+          <mxGeometry width="376" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-53" value="" style="group;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="_eD-Y539RmsAj1h9kYog-68" vertex="1" connectable="0">
-          <mxGeometry width="381.5" height="170" as="geometry" />
+          <mxGeometry width="376" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-106" value="light hue -" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;fontSize=10;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="18.75" y="63" width="30" height="30" as="geometry" />
+          <mxGeometry x="18.479685452162517" y="63" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-108" value="screen bright +" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=9;gradientColor=none;fillColor=#FFFFCC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="48.75" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="48.04718217562254" y="50" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-109" value="screen bright -" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="48.75" y="80" width="30" height="30" as="geometry" />
+          <mxGeometry x="48.04718217562254" y="80" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-110" value="scroll down" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=10;align=center;fillColor=#FFFFCC;gradientColor=#E6D0DE;gradientDirection=west;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="78.75" y="40" width="30" height="30" as="geometry" />
+          <mxGeometry x="77.61467889908256" y="40" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-111" value="scroll up" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;fontSize=10;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;align=center;fillColor=#E6D0DE;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="108.75" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="107.18217562254259" y="50" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-112" value="light sat -" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="78.75" y="70" width="30" height="30" as="geometry" />
+          <mxGeometry x="77.61467889908256" y="70" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-113" value="light sat +" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="108.75" y="80" width="30" height="30" as="geometry" />
+          <mxGeometry x="107.18217562254259" y="80" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-114" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="48.75" y="20" width="30" height="30" as="geometry" />
+          <mxGeometry x="48.04718217562254" y="20" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-115" value="prev" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;fontSize=12;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="78.75" y="10" width="30" height="30" as="geometry" />
+          <mxGeometry x="77.61467889908256" y="10" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-116" value="next" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="108.75" y="20" width="30" height="30" as="geometry" />
+          <mxGeometry x="107.18217562254259" y="20" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-117" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="138.75" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="136.74967234600263" y="50" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-119" value="mouse left" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="217.75" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="214.610747051114" y="50" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-121" value="mouse down" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=9;align=center;fillColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="247.75" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="244.17824377457404" y="50" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-122" value="zoom -" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="247.75" y="80" width="30" height="30" as="geometry" />
+          <mxGeometry x="244.17824377457404" y="80" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-123" value="vol -" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;fontSize=12;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="247.75" y="20" width="30" height="30" as="geometry" />
+          <mxGeometry x="244.17824377457404" y="20" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-124" value="mouse up" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=9;align=center;fillColor=#FFFFCC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="277.75" y="40" width="30" height="30" as="geometry" />
+          <mxGeometry x="273.7457404980341" y="40" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-125" value="zoom +" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="277.75" y="70" width="30" height="30" as="geometry" />
+          <mxGeometry x="273.7457404980341" y="70" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-126" value="vol +" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="277.75" y="10" width="30" height="30" as="geometry" />
+          <mxGeometry x="273.7457404980341" y="10" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-127" value="mouse right" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=9;fillColor=#FFFFCC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="307.75" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="303.3132372214941" y="50" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-128" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="307.75" y="80" width="30" height="30" as="geometry" />
+          <mxGeometry x="303.3132372214941" y="80" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-129" value="mute" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="307.75" y="20" width="30" height="30" as="geometry" />
+          <mxGeometry x="303.3132372214941" y="20" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-130" value="light hue +" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="337.75" y="63" width="30" height="30" as="geometry" />
+          <mxGeometry x="332.8807339449541" y="63" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-132" value="mouse click 2" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=15;direction=west;labelBackgroundColor=none;fillColor=#FFFFFF;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="121.75" y="118" width="30" height="30" as="geometry" />
+          <mxGeometry x="119.99475753604193" y="118" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-133" value="mouse click 1" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=30;direction=north;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="152.75" y="130" width="30" height="30" as="geometry" />
+          <mxGeometry x="150.5478374836173" y="130" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-134" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-30;direction=north;strokeWidth=2;perimeterSpacing=2;fontFamily=EB Garamond;fontStyle=0;fillColor=#00CCCC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="200.75" y="130" width="30" height="30" as="geometry" />
+          <mxGeometry x="197.85583224115334" y="130" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ht8cUeteIGSEXaey3JQ4-135" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-15;direction=west;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fillColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="231.75" y="118" width="30" height="30" as="geometry" />
+          <mxGeometry x="228.4089121887287" y="118" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W65jjInmlXqQC7ASUcbz-36" value="home" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fillColor=#FFFFCC;strokeColor=#BDBDBD;fontFamily=EB Garamond;fontStyle=0;fontSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="11.5" y="10" width="30" height="30" as="geometry" />
+          <mxGeometry x="11.334207077326344" y="10" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W65jjInmlXqQC7ASUcbz-37" value="end" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fillColor=#FFFFCC;strokeColor=#BDBDBD;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="344.25" y="10" width="30" height="30" as="geometry" />
+          <mxGeometry x="339.2870249017038" y="10" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6lZ4JAKVlUNFn-7W2HPh-3" value="mouse accel slow" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fillColor=#E6D0DE;strokeColor=#BDBDBD;fontFamily=EB Garamond;fontStyle=0;fontSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="_eD-Y539RmsAj1h9kYog-53" vertex="1">
-          <mxGeometry x="145.25" y="10" width="30" height="30" as="geometry" />
+          <mxGeometry x="143.1559633027523" y="10" width="29.567496723460025" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-69" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;26 keys layout&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="132.25" y="42" width="130" height="30" as="geometry" />
@@ -927,10 +927,10 @@
         <mxCell id="7zR4wIPE1CO28s21XZjC-34" value="B" style="glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=1;perimeterSpacing=0;flipV=1;flipH=1;fontSize=10;opacity=80;fillColor=#FFFFFF;verticalAlign=bottom;fontFamily=EB Garamond;fontStyle=0;strokeColor=#000000;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="1" vertex="1">
           <mxGeometry x="103.75" y="124" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="j2b1J1lqL1nlAbcfslb_-7" value="Q" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fillColor=#CCFFCC;strokeColor=#BDBDBD;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="1">
+        <mxCell id="j2b1J1lqL1nlAbcfslb_-7" value="Q" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fillColor=#CCFFCC;strokeColor=#BDBDBD;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="1" vertex="1">
           <mxGeometry x="80.75" y="219" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j2b1J1lqL1nlAbcfslb_-11" value="K" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fillColor=#CCFFCC;strokeColor=#BDBDBD;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="1">
+        <mxCell id="j2b1J1lqL1nlAbcfslb_-11" value="K" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fillColor=#CCFFCC;strokeColor=#BDBDBD;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="1" vertex="1">
           <mxGeometry x="279.75" y="219" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kOdQHCtrNxEU5ukmJYPU-21" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="1" vertex="1">
@@ -945,8 +945,95 @@
         <mxCell id="kOdQHCtrNxEU5ukmJYPU-22" value="U" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=1;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSize=7;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="kOdQHCtrNxEU5ukmJYPU-31" vertex="1">
           <mxGeometry x="34" y="9" width="13" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="j2b1J1lqL1nlAbcfslb_-12" value="]" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fillColor=#E6D0DE;strokeColor=#BDBDBD;fontFamily=EB Garamond;fontStyle=0;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="1">
+        <mxCell id="j2b1J1lqL1nlAbcfslb_-12" value="]" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fillColor=#E6D0DE;strokeColor=#BDBDBD;fontFamily=EB Garamond;fontStyle=0;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="1" vertex="1">
           <mxGeometry x="351" y="124.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-1" value="" style="group;fillColor=#FFFF33;opacity=10;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="386" y="459" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;code&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;shadow=1;strokeColor=#FFFF00;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="1" y="-1" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-3" value="self" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;fontSize=12;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="9" y="63" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-4" value="def" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fillColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="39" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-5" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="39" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-6" value="class" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="69" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-7" value="return" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;fontSize=10;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="99" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-8" value="true" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="69" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-9" value="false" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="99" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-10" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="39" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-11" value="import" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;fontSize=9;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="69" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-12" value="from" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="99" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-13" value="None" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="129" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-14" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="208" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-15" value="&quot;&quot;&quot;" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="238" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-16" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fillColor=#FFFFCC;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="238" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-17" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;fontSize=12;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="238" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-18" value="```" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="268" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-19" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fillColor=#FFFFCC;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="268" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-20" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="268" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-21" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fillColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="298" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-22" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="298" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-23" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="298" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-24" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="328" y="63" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-25" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=15;direction=west;labelBackgroundColor=none;fillColor=#FFFFFF;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="112" y="118" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-26" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=30;direction=north;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="143" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-27" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-30;direction=north;strokeWidth=2;perimeterSpacing=2;fontFamily=EB Garamond;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="191" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-28" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-15;direction=west;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=EB Garamond;fontStyle=0;fillColor=#FFFFFF;gradientColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="jZI-f62AsB1riQGoP5xL-1">
+          <mxGeometry x="222" y="118" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZI-f62AsB1riQGoP5xL-29" value="code" style="glass=0;rounded=1;shadow=0;textShadow=0;strokeWidth=1;perimeterSpacing=0;flipV=1;flipH=1;fontSize=7;opacity=80;fillColor=#FFFF99;verticalAlign=bottom;fontFamily=EB Garamond;fontStyle=4;strokeColor=#FFFF00;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;align=center;fontColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="1">
+          <mxGeometry x="271.75" y="188" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
