@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="VxbZsfQ6vlXJQv2ikdC8">
-    <mxGraphModel dx="801" dy="264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,10 +118,10 @@
         <mxCell id="MceUDlZtOFOat2aFnNCN-66" value="" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=30;direction=north;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=Comic Sans MS;fontStyle=0;fillColor=#FFFFFF;" parent="_eD-Y539RmsAj1h9kYog-36" vertex="1">
           <mxGeometry x="144" y="129" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MceUDlZtOFOat2aFnNCN-67" value=" Bksp&#xa;word" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-30;direction=north;strokeWidth=2;perimeterSpacing=2;fontFamily=Comic Sans MS;fontStyle=2;fillColor=#FFFFFF;fontSize=7;fontColor=#FF3399;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="_eD-Y539RmsAj1h9kYog-36" vertex="1">
+        <mxCell id="MceUDlZtOFOat2aFnNCN-67" value="Bksp&#xa;" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-30;direction=north;strokeWidth=2;perimeterSpacing=2;fontFamily=Comic Sans MS;fontStyle=0;fillColor=#FFFFFF;fontSize=10;fontColor=default;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="_eD-Y539RmsAj1h9kYog-36" vertex="1">
           <mxGeometry x="192" y="129" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MceUDlZtOFOat2aFnNCN-68" value="Del&#xa;word" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-15;direction=west;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=Comic Sans MS;fontStyle=2;fillColor=#FFFFFF;fontSize=7;fontColor=#FF3399;" parent="_eD-Y539RmsAj1h9kYog-36" vertex="1">
+        <mxCell id="MceUDlZtOFOat2aFnNCN-68" value="Del&#xa;" style="whiteSpace=wrap;glass=0;rounded=1;shadow=0;textShadow=0;rotation=-15;direction=west;strokeWidth=2;perimeterSpacing=2;flipV=1;flipH=1;fontFamily=Comic Sans MS;fontStyle=0;fillColor=#FFFFFF;fontSize=10;fontColor=default;" parent="_eD-Y539RmsAj1h9kYog-36" vertex="1">
           <mxGeometry x="223" y="117" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MceUDlZtOFOat2aFnNCN-74" value="&amp;nbsp;prev&amp;nbsp;&lt;div style=&quot;font-size: 7px;&quot;&gt;word&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=7;fontColor=#FF0080;fontStyle=2;" parent="_eD-Y539RmsAj1h9kYog-36" vertex="1">
@@ -129,6 +129,12 @@
         </mxCell>
         <mxCell id="MceUDlZtOFOat2aFnNCN-75" value="next&amp;nbsp;&lt;div style=&quot;font-size: 7px;&quot;&gt;word&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=7;fontColor=#FF0080;fontStyle=2;" parent="_eD-Y539RmsAj1h9kYog-36" vertex="1">
           <mxGeometry x="290.75" y="64" width="35" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="y5Aq4KX8sx83EvKYHj2Y-2" value="Bksp word" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=6;fontColor=#FF0080;fontStyle=2;rotation=-30;" vertex="1" parent="_eD-Y539RmsAj1h9kYog-36">
+          <mxGeometry x="191" y="145" width="35" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="y5Aq4KX8sx83EvKYHj2Y-3" value="Del word" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=6;fontColor=#FF0080;fontStyle=2;rotation=-15;" vertex="1" parent="_eD-Y539RmsAj1h9kYog-36">
+          <mxGeometry x="219" y="133" width="35" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_eD-Y539RmsAj1h9kYog-58" value="" style="group;fillColor=#9933FF;opacity=10;fontFamily=Comic Sans MS;fontStyle=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="5" y="458" width="376" height="170" as="geometry" />
